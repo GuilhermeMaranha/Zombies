@@ -57,6 +57,9 @@ Sobreviver o máximo de tempo possível, seguir os waypoints e alcançar o **ref
 Explore, lute, dirija e mantenha-se vivo em um mundo onde **cada noite pode ser a última**.
 
 ---
+[![Assista à Gameplay](https://img.youtube.com/vi/MtASCEFrswo/maxresdefault.jpg)](https://youtu.be/MtASCEFrswo)
+---
+
 
 ## Créditos
 **Desenvolvido por:** *Guilherme Maranha*  
