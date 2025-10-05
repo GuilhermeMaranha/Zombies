@@ -57,6 +57,16 @@ Sobreviver o máximo de tempo possível, seguir os waypoints e alcançar o **ref
 Explore, lute, dirija e mantenha-se vivo em um mundo onde **cada noite pode ser a última**.
 
 ---
+## Fotos do jogo
+<img width="426" height="240" alt="1" src="https://github.com/user-attachments/assets/ba470514-cac2-4771-b1ae-f5b6a28c7183" />
+<img width="426" height="240" alt="2" src="https://github.com/user-attachments/assets/df351282-5a8b-4bd9-9e2e-07fc3f5ce653" />
+<img width="426" height="240" alt="3" src="https://github.com/user-attachments/assets/f21072e8-822a-4403-a914-c518b13ff6e5" />
+<img width="426" height="240" alt="4" src="https://github.com/user-attachments/assets/6a25304e-26d1-40ff-af1d-6306883d7cea" />
+<img width="426" height="240" alt="5" src="https://github.com/user-attachments/assets/9bc30d1e-0533-41cb-b3ea-1907c3e8fe4a" />
+<img width="426" height="240" alt="6" src="https://github.com/user-attachments/assets/a272afc9-85d0-4624-93a1-43cad70c8cb1" />
+
+---
+## Video do jogo
 [![Assista à Gameplay](https://img.youtube.com/vi/MtASCEFrswo/maxresdefault.jpg)](https://youtu.be/MtASCEFrswo)
 ---
 
