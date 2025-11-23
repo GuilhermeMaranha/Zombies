@@ -8,7 +8,7 @@ O objetivo principal é **sobreviver, eliminar os zumbis e seguir o caminho** in
 ---
 
 ## História do Jogo
-O ano é **2046**. Um vírus desconhecido se espalhou rapidamente pelo planeta, transformando a maioria da população em **zumbis sedentos por carne humana**. Você é **Alex Carter**, um ex-mecânico que acorda em uma cidade devastada. A energia acabou, os carros estão abandonados e o silêncio das ruas é interrompido apenas pelos gritos dos mortos.
+O ano é **2046**. Um vírus desconhecido se espalhou rapidamente pelo planeta, transformando a maioria da população em **zumbis sedentos por carne humana**. Você é **Alex Carter**, um ex-mecânico que acorda em uma cidade devastada. A energia acabou, os carros estão abandonados e o silêncio das ruas é interrompido apenas pelos gritos dos mortos. 
 
 Enquanto busca por suprimentos, Alex descobre sinais de que **outros sobreviventes** ainda estão vivos e seguiram em direção a um **refúgio militar nas montanhas**. Para chegar até lá, ele precisará cruzar a cidade infestada, **coletar armas improvisadas** (como tacos e picaretas) e enfrentar hordas de inimigos.
 
